@@ -1,0 +1,3 @@
+code version - source code and history ko track/save krta hai
+collaboration - Many devs can work together without messing with each other's code
+Backup & safety - Branching and cloud sync(GitHub)- se code ka safe backup and easy rollback provide krta hai 
